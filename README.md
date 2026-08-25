@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ps9723792-debug/leetcode-problems-session-1/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ps9723792-debug/leetcode-problems-session-1/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
